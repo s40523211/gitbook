@@ -10,5 +10,10 @@
 * [W5](w5.md)
 * [W6](w6.md)
 * [W7](w7.md)
-* [鋼球循環系統](gang-qiu-xun-huan-xi-tong.md)
+* [期中報告](qi-zhong-bao-gao.md)
+  * [V-rep 模擬](qi-zhong-bao-gao/v-rep-mo-ni.md)
+  * 各組頂球機構的位移、速度與加速度分析, 手動運算是否與程式驗算或 V-rep 模擬相符?
+  * 詳細說明各組如何進行協同設計, 如何利用 Gitbook、Github 與近端或雲端主機增加設計流程效益?
+  * [細部零件材料表、各零件工程圖與組立檔](qi-zhong-bao-gao/xi-bu-ling-jian-cai-liao-biao-3001-ge-ling-jian-gong-cheng-tu-yu-zu-li-dang.md)
+  * cd2018 倉儲展示
 
