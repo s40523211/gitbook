@@ -16,4 +16,5 @@
   * [詳細說明各組如何進行協同設計, 如何利用 Gitbook、Github 與近端或雲端主機增加設計流程效益?](qi-zhong-bao-gao/xiang-xi-shuo-ming-ge-zu-ru-he-jin-xing-xie-tong-she-8a082c-ru-he-li-yong-gitbook-github-yu-jin-duan-huo-yun-duan-zhu-ji-zeng-jia-she-ji-liu-cheng-xiao-76ca3f.md)
   * [細部零件材料表、各零件工程圖與組立檔](qi-zhong-bao-gao/xi-bu-ling-jian-cai-liao-biao-3001-ge-ling-jian-gong-cheng-tu-yu-zu-li-dang.md)
   * [cd2018 倉儲展示](qi-zhong-bao-gao/cd2018-cang-chu-zhan-shi.md)
+  * 自評成績
 
