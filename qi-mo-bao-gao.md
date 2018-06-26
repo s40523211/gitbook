@@ -1,6 +1,6 @@
 # 期末簡報
 
-40523211 -
+
 
 ### 期中到期末所學:
 
@@ -32,7 +32,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lf_h9fQzDdM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### 自評:70
+### 自評:
+40523211  70分
+40523215  60分
+40523245  60分
 
 
 
